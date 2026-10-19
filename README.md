@@ -4,6 +4,10 @@ Ein kleines R-Projekt mit ausschließlich fiktiven Versicherungsdaten. Es zeigt 
 
 > Die Daten und die Risikokennzahl sind frei erfunden. Das Projekt ist kein echtes Preis- oder Risikomodell.
 
+## Live-Demo
+
+Die interaktive Shiny-Anwendung ist online verfügbar: [Insurance Pricing Data Analysis](https://youssef-kaabachi.shinyapps.io/insurance-pricing-data-analysis/)
+
 ## Ordnerstruktur
 
 ```text
